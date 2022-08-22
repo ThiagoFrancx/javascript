@@ -11,3 +11,4 @@ console.log('Revisão é a mãe do aprendizado')
 // executar a função
 
 createPharses()
+console.log('Fim do programa')
